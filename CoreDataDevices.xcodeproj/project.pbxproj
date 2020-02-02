@@ -14,6 +14,9 @@
 		0F57C8EF23E6E55C00F01045 /* CoreDataDevices.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 0F57C8ED23E6E55C00F01045 /* CoreDataDevices.xcdatamodeld */; };
 		0F57C8F123E6E56500F01045 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0F57C8F023E6E56500F01045 /* Assets.xcassets */; };
 		0F57C8F423E6E56500F01045 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0F57C8F223E6E56500F01045 /* LaunchScreen.storyboard */; };
+		0F57C8FC23E70C7C00F01045 /* PersistentceService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F57C8FB23E70C7C00F01045 /* PersistentceService.swift */; };
+		0FD9716123E73EA4005993BF /* Person+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FD9715F23E73EA4005993BF /* Person+CoreDataClass.swift */; };
+		0FD9716223E73EA4005993BF /* Person+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FD9716023E73EA4005993BF /* Person+CoreDataProperties.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +29,9 @@
 		0F57C8F023E6E56500F01045 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0F57C8F323E6E56500F01045 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0F57C8F523E6E56500F01045 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0F57C8FB23E70C7C00F01045 /* PersistentceService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersistentceService.swift; sourceTree = "<group>"; };
+		0FD9715F23E73EA4005993BF /* Person+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Person+CoreDataClass.swift"; sourceTree = "<group>"; };
+		0FD9716023E73EA4005993BF /* Person+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Person+CoreDataProperties.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +48,8 @@
 		0F57C8D823E6E55C00F01045 = {
 			isa = PBXGroup;
 			children = (
+				0FD9715F23E73EA4005993BF /* Person+CoreDataClass.swift */,
+				0FD9716023E73EA4005993BF /* Person+CoreDataProperties.swift */,
 				0F57C8E323E6E55C00F01045 /* CoreDataDevices */,
 				0F57C8E223E6E55C00F01045 /* Products */,
 			);
@@ -58,8 +66,9 @@
 		0F57C8E323E6E55C00F01045 /* CoreDataDevices */ = {
 			isa = PBXGroup;
 			children = (
-				0F57C8E423E6E55C00F01045 /* AppDelegate.swift */,
 				0F57C8E623E6E55C00F01045 /* SceneDelegate.swift */,
+				0F57C8E423E6E55C00F01045 /* AppDelegate.swift */,
+				0F57C8FB23E70C7C00F01045 /* PersistentceService.swift */,
 				0F57C8E823E6E55C00F01045 /* ViewController.swift */,
 				0F57C8EA23E6E55C00F01045 /* Main.storyboard */,
 				0F57C8F023E6E56500F01045 /* Assets.xcassets */,
@@ -141,7 +150,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0FD9716223E73EA4005993BF /* Person+CoreDataProperties.swift in Sources */,
+				0F57C8FC23E70C7C00F01045 /* PersistentceService.swift in Sources */,
 				0F57C8E923E6E55C00F01045 /* ViewController.swift in Sources */,
+				0FD9716123E73EA4005993BF /* Person+CoreDataClass.swift in Sources */,
 				0F57C8E523E6E55C00F01045 /* AppDelegate.swift in Sources */,
 				0F57C8EF23E6E55C00F01045 /* CoreDataDevices.xcdatamodeld in Sources */,
 				0F57C8E723E6E55C00F01045 /* SceneDelegate.swift in Sources */,
