@@ -33,7 +33,7 @@ class ViewController: UIViewController {
         }
         let action = UIAlertAction(title: "Post", style: .default) { (_) in
             let name = alert.textFields!.first!.text!
-            let age = alert.textFields!.first!.text!
+            let age = alert.textFields![1].text!
             let person = Person(context: PersistentceService.context)
             person.name = name
             person.age = Double(age)!
