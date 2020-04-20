@@ -3,7 +3,7 @@
 //  PetPal
 //
 //  Created by Lab on 1/31/20.
-//  Copyright © 2020 Razeware. All rights reserved.
+//  Copyright © 2020 Arifeen Mahmud. All rights reserved.
 //
 //
 

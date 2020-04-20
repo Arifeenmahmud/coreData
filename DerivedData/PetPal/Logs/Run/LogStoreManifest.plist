@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>2B1289FE-52F0-452A-B552-28704036137A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2B1289FE-52F0-452A-B552-28704036137A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PetPal project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PetPal</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run PetPal</string>
+			<key>timeStartedRecording</key>
+			<real>609099430.26320601</real>
+			<key>timeStoppedRecording</key>
+			<real>609099447.27061498</real>
+			<key>title</key>
+			<string>Run PetPal</string>
+			<key>uniqueIdentifier</key>
+			<string>2B1289FE-52F0-452A-B552-28704036137A</string>
+		</dict>
+		<key>3669F827-FD76-4041-A5A7-9475FDFC7489</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3669F827-FD76-4041-A5A7-9475FDFC7489.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PetPal project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PetPal</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run PetPal</string>
+			<key>timeStartedRecording</key>
+			<real>609099119.96812499</real>
+			<key>timeStoppedRecording</key>
+			<real>609099152.37841702</real>
+			<key>title</key>
+			<string>Run PetPal</string>
+			<key>uniqueIdentifier</key>
+			<string>3669F827-FD76-4041-A5A7-9475FDFC7489</string>
+		</dict>
+		<key>4BAB325E-9E09-42EE-9FBF-0F3A170EF902</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>4BAB325E-9E09-42EE-9FBF-0F3A170EF902.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PetPal project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PetPal</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run PetPal</string>
+			<key>timeStartedRecording</key>
+			<real>609099318.12373996</real>
+			<key>timeStoppedRecording</key>
+			<real>609099377.140293</real>
+			<key>title</key>
+			<string>Run PetPal</string>
+			<key>uniqueIdentifier</key>
+			<string>4BAB325E-9E09-42EE-9FBF-0F3A170EF902</string>
+		</dict>
+		<key>5CA779FA-033D-4D36-A164-15545BD5C647</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5CA779FA-033D-4D36-A164-15545BD5C647.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PetPal project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PetPal</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run PetPal</string>
+			<key>timeStartedRecording</key>
+			<real>609099450.12613904</real>
+			<key>timeStoppedRecording</key>
+			<real>609099469.97192502</real>
+			<key>title</key>
+			<string>Run PetPal</string>
+			<key>uniqueIdentifier</key>
+			<string>5CA779FA-033D-4D36-A164-15545BD5C647</string>
+		</dict>
+		<key>61B81388-98BC-411D-95AC-28B2F209F00D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>61B81388-98BC-411D-95AC-28B2F209F00D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PetPal project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PetPal</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run PetPal</string>
+			<key>timeStartedRecording</key>
+			<real>609099404.96987796</real>
+			<key>timeStoppedRecording</key>
+			<real>609099427.43787301</real>
+			<key>title</key>
+			<string>Run PetPal</string>
+			<key>uniqueIdentifier</key>
+			<string>61B81388-98BC-411D-95AC-28B2F209F00D</string>
+		</dict>
+		<key>67B2F1A2-EF4A-47BB-BB11-6DDE0DCEA078</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>67B2F1A2-EF4A-47BB-BB11-6DDE0DCEA078.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PetPal project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PetPal</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run PetPal</string>
+			<key>timeStartedRecording</key>
+			<real>609098511.63778901</real>
+			<key>timeStoppedRecording</key>
+			<real>609099038.494928</real>
+			<key>title</key>
+			<string>Run PetPal</string>
+			<key>uniqueIdentifier</key>
+			<string>67B2F1A2-EF4A-47BB-BB11-6DDE0DCEA078</string>
+		</dict>
+		<key>6C39A1AB-BB58-4EB4-9F7C-4EF2B34C6ABE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6C39A1AB-BB58-4EB4-9F7C-4EF2B34C6ABE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PetPal project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PetPal</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run PetPal</string>
+			<key>timeStartedRecording</key>
+			<real>609099172.66339898</real>
+			<key>timeStoppedRecording</key>
+			<real>609099306.63207197</real>
+			<key>title</key>
+			<string>Run PetPal</string>
+			<key>uniqueIdentifier</key>
+			<string>6C39A1AB-BB58-4EB4-9F7C-4EF2B34C6ABE</string>
+		</dict>
+		<key>90FAA748-9090-4B37-BC7F-CE460254ED68</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>90FAA748-9090-4B37-BC7F-CE460254ED68.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PetPal project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PetPal</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run PetPal</string>
+			<key>timeStartedRecording</key>
+			<real>609099381.98886704</real>
+			<key>timeStoppedRecording</key>
+			<real>609099401.75809705</real>
+			<key>title</key>
+			<string>Run PetPal</string>
+			<key>uniqueIdentifier</key>
+			<string>90FAA748-9090-4B37-BC7F-CE460254ED68</string>
+		</dict>
+		<key>C936951A-2A3B-4297-A4BB-8B7AFC3B68E1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C936951A-2A3B-4297-A4BB-8B7AFC3B68E1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PetPal project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PetPal</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run PetPal</string>
+			<key>timeStartedRecording</key>
+			<real>609099038.40073001</real>
+			<key>timeStoppedRecording</key>
+			<real>609099120.07698298</real>
+			<key>title</key>
+			<string>Run PetPal</string>
+			<key>uniqueIdentifier</key>
+			<string>C936951A-2A3B-4297-A4BB-8B7AFC3B68E1</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

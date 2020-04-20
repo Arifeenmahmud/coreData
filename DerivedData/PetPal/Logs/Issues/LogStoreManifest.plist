@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>9F76BF43-C644-4C7A-900D-3AA3A1B535B6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>9F76BF43-C644-4C7A-900D-3AA3A1B535B6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>PetPal-dkyxhmjitcpwccdqknglzvnqcskk</string>
+			<key>timeStartedRecording</key>
+			<real>609099469.81432295</real>
+			<key>timeStoppedRecording</key>
+			<real>609099473.16839802</real>
+			<key>title</key>
+			<string>Build target PetPal</string>
+			<key>uniqueIdentifier</key>
+			<string>9F76BF43-C644-4C7A-900D-3AA3A1B535B6</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

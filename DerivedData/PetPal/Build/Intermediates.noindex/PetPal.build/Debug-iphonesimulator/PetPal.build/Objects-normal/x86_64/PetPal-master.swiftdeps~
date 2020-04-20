@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.2 (swiftlang-1103.0.32.1 clang-1103.0.32.29)"
+options: "454f14f437fd4dd7c23dce3f4a81950e"
+build_time: [1587406647, 146270000]
+inputs:
+  "/Users/Arifeen/Desktop/PetPal/PetPal/View Controllers/MainViewController.swift": [1587406647, 42576164]
+  "/Users/Arifeen/Desktop/PetPal/PetPal/Friend+CoreDataClass.swift": [1587406230, 377540444]
+  "/Users/Arifeen/Desktop/PetPal/PetPal/Cells/FriendCell.swift": [1580570516, 470175671]
+  "/Users/Arifeen/Desktop/PetPal/PetPal/View Controllers/PetsViewController.swift": [1580570516, 301939189]
+  "/Users/Arifeen/Desktop/PetPal/PetPal/Extensions/Array+Extensions.swift": [1580570516, 395996719]
+  "/Users/Arifeen/Desktop/PetPal/PetPal/Friend+CoreDataProperties.swift": [1580582899, 190766237]
+  "/Users/Arifeen/Desktop/PetPal/PetPal/AppDelegate.swift": [1580570516, 505279886]
+  "/Users/Arifeen/Desktop/PetPal/PetPal/Extensions/Int+Extension.swift": [1580570516, 329397897]
+  "/Users/Arifeen/Desktop/PetPal/PetPal/Cells/PetCell.swift": [1580570516, 447230136]
+  "/Users/Arifeen/Desktop/PetPal/PetPal/Data/PetData.swift": [1580570516, 409224424]
+  "/Users/Arifeen/Desktop/PetPal/PetPal/Data/FriendData.swift": [1580570516, 428539580]
+  "/Users/Arifeen/Desktop/PetPal/PetPal/Extensions/Date+Extension.swift": [1580570516, 353154084]
